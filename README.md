@@ -16,4 +16,3 @@ lab_2_normal_num10.py — задача средней сложности №10
 Для запуска необходимо установить Python 3.
 Склонировать репозиторий:
 
-git clone https://github.com/USERNAME/REPOSITORY.git
